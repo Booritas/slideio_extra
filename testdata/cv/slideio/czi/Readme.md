@@ -17,3 +17,9 @@ Sources of images:
 [Shi, Hao, Zipfel, Warren, Brito, Ilana, & De Vlaminck, Iwijn. (2019). HiPR-FISH 10-bit Experiment Barcode 768 - 1023. Zenodo.](https://zenodo.org/record/3455821)
 
 - 08_18_2018_enc_1001_633.czi
+
+[Yunhong Jiang; Michael Lawrence; Martin P. Ansell; Atif Hussain; M. P. Ansell; A. Hussain; Y. Jiang; M. Lawrence. Cell wall microstructure, pore size distribution and absolute density of hemp shiv.](https://datadryad.org/stash/dataset/doi:10.5061/dryad.8t8v6)
+
+- 1000xRED autofluorescence Z-stack.czi
+
+[Dauphinee, Adrian N.; Ohlsson, Jonas A.; Minina, Elena A. Tandem Tag Assay Optimized for Semi-automated in vivo Autophagic Activity Measurement in Arabidopsis thaliana roots](https://zenodo.org/record/3582883)
